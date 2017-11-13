@@ -1,0 +1,1446 @@
+---
+- id: '1101'
+  name: Emergency
+  parent_id: '0'
+  parent_name: ''
+  vocabulary: Open Eligibility
+- id: '1102'
+  name: Food
+  parent_id: '0'
+  parent_name: ''
+  vocabulary: Open Eligibility
+- id: '1103'
+  name: Housing
+  parent_id: '0'
+  parent_name: ''
+  vocabulary: Open Eligibility
+- id: '1104'
+  name: Goods
+  parent_id: '0'
+  parent_name: ''
+  vocabulary: Open Eligibility
+- id: '1105'
+  name: Transit
+  parent_id: '0'
+  parent_name: ''
+  vocabulary: Open Eligibility
+- id: '1106'
+  name: Health
+  parent_id: '0'
+  parent_name: ''
+  vocabulary: Open Eligibility
+- id: '1107'
+  name: Money
+  parent_id: '0'
+  parent_name: ''
+  vocabulary: Open Eligibility
+- id: '1108'
+  name: Care
+  parent_id: '0'
+  parent_name: ''
+  vocabulary: Open Eligibility
+- id: '1109'
+  name: Education
+  parent_id: '0'
+  parent_name: ''
+  vocabulary: Open Eligibility
+- id: '1110'
+  name: Work
+  parent_id: '0'
+  parent_name: ''
+  vocabulary: Open Eligibility
+- id: '1111'
+  name: Legal
+  parent_id: '0'
+  parent_name: ''
+  vocabulary: Open Eligibility
+- id: '1112'
+  name: Disaster Response
+  parent_id: '1101'
+  parent_name: Emergency
+  vocabulary: Open Eligibility
+- id: '1113'
+  name: Emergency Payments
+  parent_id: '1101'
+  parent_name: Emergency
+  vocabulary: Open Eligibility
+- id: '1114'
+  name: Help Pay for Food
+  parent_id: '1113'
+  parent_name: Emergency Payments
+  vocabulary: Open Eligibility
+- id: '1115'
+  name: Help Pay for Healthcare
+  parent_id: '1113'
+  parent_name: Emergency Payments
+  vocabulary: Open Eligibility
+- id: '1116'
+  name: Help Pay for Housing
+  parent_id: '1113'
+  parent_name: Emergency Payments
+  vocabulary: Open Eligibility
+- id: '1117'
+  name: Help Pay for Gas
+  parent_id: '1113'
+  parent_name: Emergency Payments
+  vocabulary: Open Eligibility
+- id: '1118'
+  name: Help Pay for School
+  parent_id: '1113'
+  parent_name: Emergency Payments
+  vocabulary: Open Eligibility
+- id: '1119'
+  name: Help Pay for Utilities
+  parent_id: '1113'
+  parent_name: Emergency Payments
+  vocabulary: Open Eligibility
+- id: '1120'
+  name: Emergency Food
+  parent_id: '1101'
+  parent_name: Emergency
+  vocabulary: Open Eligibility
+- id: '1121'
+  name: Emergency Shelter
+  parent_id: '1101'
+  parent_name: Emergency
+  vocabulary: Open Eligibility
+- id: '1122'
+  name: Help Find Missing Persons
+  parent_id: '1101'
+  parent_name: Emergency
+  vocabulary: Open Eligibility
+- id: '1123'
+  name: Immediate Safety
+  parent_id: '1101'
+  parent_name: Emergency
+  vocabulary: Open Eligibility
+- id: '1124'
+  name: Help Escape Violence
+  parent_id: '1123'
+  parent_name: Immediate Safety
+  vocabulary: Open Eligibility
+- id: '1125'
+  name: Safe Housing
+  parent_id: '1123'
+  parent_name: Immediate Safety
+  vocabulary: Open Eligibility
+- id: '1126'
+  name: Psychiatric Emergency Services
+  parent_id: '1101'
+  parent_name: Emergency
+  vocabulary: Open Eligibility
+- id: '1127'
+  name: Community Gardens
+  parent_id: '1102'
+  parent_name: Food
+  vocabulary: Open Eligibility
+- id: '1128'
+  name: Emergency Food
+  parent_id: '1102'
+  parent_name: Food
+  vocabulary: Open Eligibility
+- id: '1129'
+  name: Food Delivery
+  parent_id: '1102'
+  parent_name: Food
+  vocabulary: Open Eligibility
+- id: '1130'
+  name: Food Pantry
+  parent_id: '1102'
+  parent_name: Food
+  vocabulary: Open Eligibility
+- id: '1131'
+  name: Free Meals
+  parent_id: '1102'
+  parent_name: Food
+  vocabulary: Open Eligibility
+- id: '1132'
+  name: Help Pay for Food
+  parent_id: '1102'
+  parent_name: Food
+  vocabulary: Open Eligibility
+- id: '1133'
+  name: Food Benefits
+  parent_id: '1132'
+  parent_name: Help Pay for Food
+  vocabulary: Open Eligibility
+- id: '1134'
+  name: Nutrition
+  parent_id: '1102'
+  parent_name: Food
+  vocabulary: Open Eligibility
+- id: '1135'
+  name: Emergency Shelter
+  parent_id: '1103'
+  parent_name: Housing
+  vocabulary: Open Eligibility
+- id: '1136'
+  name: Help Find Housing
+  parent_id: '1103'
+  parent_name: Housing
+  vocabulary: Open Eligibility
+- id: '1137'
+  name: Help Pay for Housing
+  parent_id: '1103'
+  parent_name: Housing
+  vocabulary: Open Eligibility
+- id: '1138'
+  name: Help Pay for Utilities
+  parent_id: '1137'
+  parent_name: Help Pay for Housing
+  vocabulary: Open Eligibility
+- id: '1139'
+  name: Home & Renters Insurance
+  parent_id: '1137'
+  parent_name: Help Pay for Housing
+  vocabulary: Open Eligibility
+- id: '1140'
+  name: Housing Vouchers
+  parent_id: '1137'
+  parent_name: Help Pay for Housing
+  vocabulary: Open Eligibility
+- id: '1141'
+  name: Maintenance & Repairs
+  parent_id: '1137'
+  parent_name: Help Pay for Housing
+  vocabulary: Open Eligibility
+- id: '1142'
+  name: Housing Advice
+  parent_id: '1103'
+  parent_name: Housing
+  vocabulary: Open Eligibility
+- id: '1143'
+  name: Foreclosure Counseling
+  parent_id: '1142'
+  parent_name: Housing Advice
+  vocabulary: Open Eligibility
+- id: '1144'
+  name: Homebuyer Education
+  parent_id: '1142'
+  parent_name: Housing Advice
+  vocabulary: Open Eligibility
+- id: '1145'
+  name: Residential Housing
+  parent_id: '1103'
+  parent_name: Housing
+  vocabulary: Open Eligibility
+- id: '1146'
+  name: Long-Term Housing
+  parent_id: '1145'
+  parent_name: Residential Housing
+  vocabulary: Open Eligibility
+- id: '1147'
+  name: Assisted Living
+  parent_id: '1146'
+  parent_name: Long-Term Housing
+  vocabulary: Open Eligibility
+- id: '1148'
+  name: Independent Living
+  parent_id: '1146'
+  parent_name: Long-Term Housing
+  vocabulary: Open Eligibility
+- id: '1149'
+  name: Nursing Home
+  parent_id: '1146'
+  parent_name: Long-Term Housing
+  vocabulary: Open Eligibility
+- id: '1150'
+  name: Public Housing
+  parent_id: '1146'
+  parent_name: Long-Term Housing
+  vocabulary: Open Eligibility
+- id: '1151'
+  name: Safe Housing
+  parent_id: '1145'
+  parent_name: Residential Housing
+  vocabulary: Open Eligibility
+- id: '1152'
+  name: Short-Term Housing
+  parent_id: '1145'
+  parent_name: Residential Housing
+  vocabulary: Open Eligibility
+- id: '1153'
+  name: Nursing Home
+  parent_id: '1152'
+  parent_name: Short-Term Housing
+  vocabulary: Open Eligibility
+- id: '1154'
+  name: Sober Living
+  parent_id: '1152'
+  parent_name: Short-Term Housing
+  vocabulary: Open Eligibility
+- id: '1155'
+  name: Baby Supplies
+  parent_id: '1104'
+  parent_name: Goods
+  vocabulary: Open Eligibility
+- id: '1156'
+  name: Baby Clothes
+  parent_id: '1155'
+  parent_name: Baby Supplies
+  vocabulary: Open Eligibility
+- id: '1157'
+  name: Diapers & Formula
+  parent_id: '1155'
+  parent_name: Baby Supplies
+  vocabulary: Open Eligibility
+- id: '1158'
+  name: Clothing
+  parent_id: '1104'
+  parent_name: Goods
+  vocabulary: Open Eligibility
+- id: '1159'
+  name: Baby Clothes
+  parent_id: '1158'
+  parent_name: Clothing
+  vocabulary: Open Eligibility
+- id: '1160'
+  name: Clothes for School
+  parent_id: '1158'
+  parent_name: Clothing
+  vocabulary: Open Eligibility
+- id: '1161'
+  name: Clothes for Work
+  parent_id: '1158'
+  parent_name: Clothing
+  vocabulary: Open Eligibility
+- id: '1162'
+  name: Clothing Vouchers
+  parent_id: '1158'
+  parent_name: Clothing
+  vocabulary: Open Eligibility
+- id: '1163'
+  name: Home Goods
+  parent_id: '1104'
+  parent_name: Goods
+  vocabulary: Open Eligibility
+- id: '1164'
+  name: Blankets & Fans
+  parent_id: '1163'
+  parent_name: Home Goods
+  vocabulary: Open Eligibility
+- id: '1165'
+  name: Books
+  parent_id: '1163'
+  parent_name: Home Goods
+  vocabulary: Open Eligibility
+- id: '1166'
+  name: Furniture
+  parent_id: '1163'
+  parent_name: Home Goods
+  vocabulary: Open Eligibility
+- id: '1167'
+  name: Personal Care Items
+  parent_id: '1163'
+  parent_name: Home Goods
+  vocabulary: Open Eligibility
+- id: '1168'
+  name: Supplies for Work
+  parent_id: '1163'
+  parent_name: Home Goods
+  vocabulary: Open Eligibility
+- id: '1169'
+  name: Medical Supplies
+  parent_id: '1104'
+  parent_name: Goods
+  vocabulary: Open Eligibility
+- id: '1171'
+  name: Toys & Gifts
+  parent_id: '1104'
+  parent_name: Goods
+  vocabulary: Open Eligibility
+- id: '1172'
+  name: Help Pay for Transit
+  parent_id: '1105'
+  parent_name: Transit
+  vocabulary: Open Eligibility
+- id: '1173'
+  name: Bus Passes
+  parent_id: '1172'
+  parent_name: Help Pay for Transit
+  vocabulary: Open Eligibility
+- id: '1174'
+  name: Help Pay for Gas
+  parent_id: '1172'
+  parent_name: Help Pay for Transit
+  vocabulary: Open Eligibility
+- id: '1175'
+  name: Transportation
+  parent_id: '1105'
+  parent_name: Transit
+  vocabulary: Open Eligibility
+- id: '1176'
+  name: Transportation for Healthcare
+  parent_id: '1175'
+  parent_name: Transportation
+  vocabulary: Open Eligibility
+- id: '1177'
+  name: Transportation for School
+  parent_id: '1175'
+  parent_name: Transportation
+  vocabulary: Open Eligibility
+- id: '1178'
+  name: Addiction & Recovery
+  parent_id: '1106'
+  parent_name: Health
+  vocabulary: Open Eligibility
+- id: '1179'
+  name: 12-Step
+  parent_id: '1178'
+  parent_name: Addiction & Recovery
+  vocabulary: Open Eligibility
+- id: '1180'
+  name: Detox
+  parent_id: '1178'
+  parent_name: Addiction & Recovery
+  vocabulary: Open Eligibility
+- id: '1181'
+  name: Outpatient Treatment
+  parent_id: '1178'
+  parent_name: Addiction & Recovery
+  vocabulary: Open Eligibility
+- id: '1182'
+  name: Residential Treatment
+  parent_id: '1178'
+  parent_name: Addiction & Recovery
+  vocabulary: Open Eligibility
+- id: '1183'
+  name: Sober Living
+  parent_id: '1178'
+  parent_name: Addiction & Recovery
+  vocabulary: Open Eligibility
+- id: '1184'
+  name: Dental Care
+  parent_id: '1106'
+  parent_name: Health
+  vocabulary: Open Eligibility
+- id: '1185'
+  name: End-of-Life Care
+  parent_id: '1106'
+  parent_name: Health
+  vocabulary: Open Eligibility
+- id: '1186'
+  name: Bereavement
+  parent_id: '1185'
+  parent_name: End-of-Life Care
+  vocabulary: Open Eligibility
+- id: '1187'
+  name: Burial & Funeral Help
+  parent_id: '1185'
+  parent_name: End-of-Life Care
+  vocabulary: Open Eligibility
+- id: '1188'
+  name: Hospice
+  parent_id: '1185'
+  parent_name: End-of-Life Care
+  vocabulary: Open Eligibility
+- id: '1189'
+  name: Pain Management
+  parent_id: '1185'
+  parent_name: End-of-Life Care
+  vocabulary: Open Eligibility
+- id: '1190'
+  name: Health Education
+  parent_id: '1106'
+  parent_name: Health
+  vocabulary: Open Eligibility
+- id: '1191'
+  name: Daily Life Skills
+  parent_id: '1190'
+  parent_name: Health Education
+  vocabulary: Open Eligibility
+- id: '1192'
+  name: Disease Management
+  parent_id: '1190'
+  parent_name: Health Education
+  vocabulary: Open Eligibility
+- id: '1193'
+  name: Family Planning
+  parent_id: '1190'
+  parent_name: Health Education
+  vocabulary: Open Eligibility
+- id: '1194'
+  name: Nutrition
+  parent_id: '1190'
+  parent_name: Health Education
+  vocabulary: Open Eligibility
+- id: '1195'
+  name: Parenting Education
+  parent_id: '1190'
+  parent_name: Health Education
+  vocabulary: Open Eligibility
+- id: '1196'
+  name: Sex Education
+  parent_id: '1190'
+  parent_name: Health Education
+  vocabulary: Open Eligibility
+- id: '1197'
+  name: Understand Disability
+  parent_id: '1190'
+  parent_name: Health Education
+  vocabulary: Open Eligibility
+- id: '1198'
+  name: Understand Mental Health
+  parent_id: '1190'
+  parent_name: Health Education
+  vocabulary: Open Eligibility
+- id: '1199'
+  name: Help Pay for Healthcare
+  parent_id: '1106'
+  parent_name: Health
+  vocabulary: Open Eligibility
+- id: '1200'
+  name: Disability Benefits
+  parent_id: '1199'
+  parent_name: Help Pay for Healthcare
+  vocabulary: Open Eligibility
+- id: '1201'
+  name: Discounted Healthcare
+  parent_id: '1199'
+  parent_name: Help Pay for Healthcare
+  vocabulary: Open Eligibility
+- id: '1202'
+  name: Health Insurance
+  parent_id: '1199'
+  parent_name: Help Pay for Healthcare
+  vocabulary: Open Eligibility
+- id: '1203'
+  name: Medical Supplies
+  parent_id: '1199'
+  parent_name: Help Pay for Healthcare
+  vocabulary: Open Eligibility
+- id: '1204'
+  name: Prescription Assistance
+  parent_id: '1199'
+  parent_name: Help Pay for Healthcare
+  vocabulary: Open Eligibility
+- id: '1205'
+  name: Transportation for Healthcare
+  parent_id: '1199'
+  parent_name: Help Pay for Healthcare
+  vocabulary: Open Eligibility
+- id: '1206'
+  name: Medical Care
+  parent_id: '1106'
+  parent_name: Health
+  vocabulary: Open Eligibility
+- id: '1207'
+  name: Alternative Medicine
+  parent_id: '1206'
+  parent_name: Medical Care
+  vocabulary: Open Eligibility
+- id: '1208'
+  name: Assistive Technology
+  parent_id: '1206'
+  parent_name: Medical Care
+  vocabulary: Open Eligibility
+- id: '1209'
+  name: Birth Control
+  parent_id: '1206'
+  parent_name: Medical Care
+  vocabulary: Open Eligibility
+- id: '1210'
+  name: Checkup & Test
+  parent_id: '1206'
+  parent_name: Medical Care
+  vocabulary: Open Eligibility
+- id: '1211'
+  name: Disability Screening
+  parent_id: '1210'
+  parent_name: Checkup & Test
+  vocabulary: Open Eligibility
+- id: '1212'
+  name: Disease Screening
+  parent_id: '1210'
+  parent_name: Checkup & Test
+  vocabulary: Open Eligibility
+- id: '1213'
+  name: Hearing Tests
+  parent_id: '1210'
+  parent_name: Checkup & Test
+  vocabulary: Open Eligibility
+- id: '1214'
+  name: Mental Health Evaluation
+  parent_id: '1210'
+  parent_name: Checkup & Test
+  vocabulary: Open Eligibility
+- id: '1215'
+  name: Pregnancy Tests
+  parent_id: '1210'
+  parent_name: Checkup & Test
+  vocabulary: Open Eligibility
+- id: '1216'
+  name: Vision Tests
+  parent_id: '1210'
+  parent_name: Checkup & Test
+  vocabulary: Open Eligibility
+- id: '1217'
+  name: Maternity Care
+  parent_id: '1206'
+  parent_name: Medical Care
+  vocabulary: Open Eligibility
+- id: '1218'
+  name: Personal Hygiene
+  parent_id: '1206'
+  parent_name: Medical Care
+  vocabulary: Open Eligibility
+- id: '1219'
+  name: Prevent & Treat
+  parent_id: '1206'
+  parent_name: Medical Care
+  vocabulary: Open Eligibility
+- id: '1220'
+  name: Counseling
+  parent_id: '1219'
+  parent_name: Prevent & Treat
+  vocabulary: Open Eligibility
+- id: '1221'
+  name: HIV Treatment
+  parent_id: '1219'
+  parent_name: Prevent & Treat
+  vocabulary: Open Eligibility
+- id: '1222'
+  name: Pain Management
+  parent_id: '1219'
+  parent_name: Prevent & Treat
+  vocabulary: Open Eligibility
+- id: '1223'
+  name: Disease Management
+  parent_id: '1219'
+  parent_name: Prevent & Treat
+  vocabulary: Open Eligibility
+- id: '1224'
+  name: Nursing Home
+  parent_id: '1219'
+  parent_name: Prevent & Treat
+  vocabulary: Open Eligibility
+- id: '1225'
+  name: Physical Therapy
+  parent_id: '1219'
+  parent_name: Prevent & Treat
+  vocabulary: Open Eligibility
+- id: '1226'
+  name: Specialized Therapy
+  parent_id: '1219'
+  parent_name: Prevent & Treat
+  vocabulary: Open Eligibility
+- id: '1227'
+  name: Vaccinations
+  parent_id: '1219'
+  parent_name: Prevent & Treat
+  vocabulary: Open Eligibility
+- id: '1228'
+  name: In-Home Support
+  parent_id: '1219'
+  parent_name: Prevent & Treat
+  vocabulary: Open Eligibility
+- id: '1229'
+  name: Residential Treatment
+  parent_id: '1219'
+  parent_name: Prevent & Treat
+  vocabulary: Open Eligibility
+- id: '1230'
+  name: Outpatient Treatment
+  parent_id: '1219'
+  parent_name: Prevent & Treat
+  vocabulary: Open Eligibility
+- id: '1231'
+  name: Psychiatric Emergency Services
+  parent_id: '1206'
+  parent_name: Medical Care
+  vocabulary: Open Eligibility
+- id: '1232'
+  name: Financial Assistance
+  parent_id: '1107'
+  parent_name: Money
+  vocabulary: Open Eligibility
+- id: '1233'
+  name: Help Pay for Childcare
+  parent_id: '1232'
+  parent_name: Financial Assistance
+  vocabulary: Open Eligibility
+- id: '1234'
+  name: Help Pay for Food
+  parent_id: '1232'
+  parent_name: Financial Assistance
+  vocabulary: Open Eligibility
+- id: '1235'
+  name: Food Benefits
+  parent_id: '1234'
+  parent_name: Help Pay for Food
+  vocabulary: Open Eligibility
+- id: '1236'
+  name: Help Pay for Healthcare
+  parent_id: '1232'
+  parent_name: Financial Assistance
+  vocabulary: Open Eligibility
+- id: '1237'
+  name: Disability Benefits
+  parent_id: '1236'
+  parent_name: Help Pay for Healthcare
+  vocabulary: Open Eligibility
+- id: '1238'
+  name: Discounted Healthcare
+  parent_id: '1236'
+  parent_name: Help Pay for Healthcare
+  vocabulary: Open Eligibility
+- id: '1239'
+  name: Health Insurance
+  parent_id: '1236'
+  parent_name: Help Pay for Healthcare
+  vocabulary: Open Eligibility
+- id: '1240'
+  name: Medical Supplies
+  parent_id: '1236'
+  parent_name: Help Pay for Healthcare
+  vocabulary: Open Eligibility
+- id: '1241'
+  name: Prescription Assistance
+  parent_id: '1236'
+  parent_name: Help Pay for Healthcare
+  vocabulary: Open Eligibility
+- id: '1242'
+  name: Transportation for Healthcare
+  parent_id: '1236'
+  parent_name: Help Pay for Healthcare
+  vocabulary: Open Eligibility
+- id: '1243'
+  name: Help Pay for Housing
+  parent_id: '1232'
+  parent_name: Financial Assistance
+  vocabulary: Open Eligibility
+- id: '1244'
+  name: Help Pay for Utilities
+  parent_id: '1243'
+  parent_name: Help Pay for Housing
+  vocabulary: Open Eligibility
+- id: '1245'
+  name: Home & Renters Insurance
+  parent_id: '1243'
+  parent_name: Help Pay for Housing
+  vocabulary: Open Eligibility
+- id: '1246'
+  name: Maintenance & Repairs
+  parent_id: '1243'
+  parent_name: Help Pay for Housing
+  vocabulary: Open Eligibility
+- id: '1247'
+  name: Help Pay for School
+  parent_id: '1232'
+  parent_name: Financial Assistance
+  vocabulary: Open Eligibility
+- id: '1248'
+  name: Books
+  parent_id: '1247'
+  parent_name: Help Pay for School
+  vocabulary: Open Eligibility
+- id: '1249'
+  name: Clothes for School
+  parent_id: '1247'
+  parent_name: Help Pay for School
+  vocabulary: Open Eligibility
+- id: '1250'
+  name: Financial Aid & Loans
+  parent_id: '1247'
+  parent_name: Help Pay for School
+  vocabulary: Open Eligibility
+- id: '1251'
+  name: Transportation for School
+  parent_id: '1247'
+  parent_name: Help Pay for School
+  vocabulary: Open Eligibility
+- id: '1252'
+  name: Help Pay for Transit
+  parent_id: '1232'
+  parent_name: Financial Assistance
+  vocabulary: Open Eligibility
+- id: '1253'
+  name: Help Pay for Gas
+  parent_id: '1252'
+  parent_name: Help Pay for Transit
+  vocabulary: Open Eligibility
+- id: '1254'
+  name: Bus Passes
+  parent_id: '1252'
+  parent_name: Help Pay for Transit
+  vocabulary: Open Eligibility
+- id: '1255'
+  name: Help Pay for Work Expenses
+  parent_id: '1232'
+  parent_name: Financial Assistance
+  vocabulary: Open Eligibility
+- id: '1256'
+  name: Government Benefits
+  parent_id: '1107'
+  parent_name: Money
+  vocabulary: Open Eligibility
+- id: '1257'
+  name: Disability Benefits
+  parent_id: '1256'
+  parent_name: Government Benefits
+  vocabulary: Open Eligibility
+- id: '1258'
+  name: Food Benefits
+  parent_id: '1256'
+  parent_name: Government Benefits
+  vocabulary: Open Eligibility
+- id: '1259'
+  name: Retirement Benefits
+  parent_id: '1256'
+  parent_name: Government Benefits
+  vocabulary: Open Eligibility
+- id: '1260'
+  name: Understand Government Programs
+  parent_id: '1256'
+  parent_name: Government Benefits
+  vocabulary: Open Eligibility
+- id: '1261'
+  name: Unemployment Benefits
+  parent_id: '1256'
+  parent_name: Government Benefits
+  vocabulary: Open Eligibility
+- id: '1262'
+  name: Financial Education
+  parent_id: '1107'
+  parent_name: Money
+  vocabulary: Open Eligibility
+- id: '1263'
+  name: Credit Counseling
+  parent_id: '1262'
+  parent_name: Financial Education
+  vocabulary: Open Eligibility
+- id: '1264'
+  name: Foreclosure Counseling
+  parent_id: '1262'
+  parent_name: Financial Education
+  vocabulary: Open Eligibility
+- id: '1265'
+  name: Homebuyer Education
+  parent_id: '1262'
+  parent_name: Financial Education
+  vocabulary: Open Eligibility
+- id: '1266'
+  name: Savings Program
+  parent_id: '1262'
+  parent_name: Financial Education
+  vocabulary: Open Eligibility
+- id: '1267'
+  name: Insurance
+  parent_id: '1107'
+  parent_name: Money
+  vocabulary: Open Eligibility
+- id: '1268'
+  name: Health Insurance
+  parent_id: '1267'
+  parent_name: Insurance
+  vocabulary: Open Eligibility
+- id: '1269'
+  name: Home & Renters Insurance
+  parent_id: '1267'
+  parent_name: Insurance
+  vocabulary: Open Eligibility
+- id: '1270'
+  name: Tax Preparation
+  parent_id: '1107'
+  parent_name: Money
+  vocabulary: Open Eligibility
+- id: '1271'
+  name: Adoption & Foster Care
+  parent_id: '1108'
+  parent_name: Care
+  vocabulary: Open Eligibility
+- id: '1272'
+  name: Adoption & Foster Placement
+  parent_id: '1271'
+  parent_name: Adoption & Foster Care
+  vocabulary: Open Eligibility
+- id: '1273'
+  name: Adoption & Foster Parenting
+  parent_id: '1271'
+  parent_name: Adoption & Foster Care
+  vocabulary: Open Eligibility
+- id: '1274'
+  name: Adoption Planning
+  parent_id: '1271'
+  parent_name: Adoption & Foster Care
+  vocabulary: Open Eligibility
+- id: '1275'
+  name: Post-Adoption Support
+  parent_id: '1271'
+  parent_name: Adoption & Foster Care
+  vocabulary: Open Eligibility
+- id: '1276'
+  name: Animal Welfare
+  parent_id: '1108'
+  parent_name: Care
+  vocabulary: Open Eligibility
+- id: '1277'
+  name: Daytime Care
+  parent_id: '1108'
+  parent_name: Care
+  vocabulary: Open Eligibility
+- id: '1278'
+  name: Adult Daycare
+  parent_id: '1277'
+  parent_name: Daytime Care
+  vocabulary: Open Eligibility
+- id: '1279'
+  name: Afterschool Care
+  parent_id: '1277'
+  parent_name: Daytime Care
+  vocabulary: Open Eligibility
+- id: '1280'
+  name: Childcare
+  parent_id: '1277'
+  parent_name: Daytime Care
+  vocabulary: Open Eligibility
+- id: '1281'
+  name: Help Find Childcare
+  parent_id: '1280'
+  parent_name: Childcare
+  vocabulary: Open Eligibility
+- id: '1282'
+  name: Help Pay for Childcare
+  parent_id: '1280'
+  parent_name: Childcare
+  vocabulary: Open Eligibility
+- id: '1283'
+  name: Day Camp
+  parent_id: '1277'
+  parent_name: Daytime Care
+  vocabulary: Open Eligibility
+- id: '1284'
+  name: Preschool
+  parent_id: '1277'
+  parent_name: Daytime Care
+  vocabulary: Open Eligibility
+- id: '1285'
+  name: Recreation
+  parent_id: '1277'
+  parent_name: Daytime Care
+  vocabulary: Open Eligibility
+- id: '1286'
+  name: Relief for Caregivers
+  parent_id: '1277'
+  parent_name: Daytime Care
+  vocabulary: Open Eligibility
+- id: '1287'
+  name: End-of-Life Care
+  parent_id: '1108'
+  parent_name: Care
+  vocabulary: Open Eligibility
+- id: '1288'
+  name: Bereavement
+  parent_id: '1287'
+  parent_name: End-of-Life Care
+  vocabulary: Open Eligibility
+- id: '1289'
+  name: Burial & Funeral Help
+  parent_id: '1287'
+  parent_name: End-of-Life Care
+  vocabulary: Open Eligibility
+- id: '1290'
+  name: Hospice
+  parent_id: '1287'
+  parent_name: End-of-Life Care
+  vocabulary: Open Eligibility
+- id: '1291'
+  name: Pain Management
+  parent_id: '1287'
+  parent_name: End-of-Life Care
+  vocabulary: Open Eligibility
+- id: '1292'
+  name: Navigating the System
+  parent_id: '1108'
+  parent_name: Care
+  vocabulary: Open Eligibility
+- id: '1293'
+  name: Help Fill out Forms
+  parent_id: '1292'
+  parent_name: Navigating the System
+  vocabulary: Open Eligibility
+- id: '1294'
+  name: Help Find Childcare
+  parent_id: '1292'
+  parent_name: Navigating the System
+  vocabulary: Open Eligibility
+- id: '1295'
+  name: Help Find Housing
+  parent_id: '1292'
+  parent_name: Navigating the System
+  vocabulary: Open Eligibility
+- id: '1296'
+  name: Help Find School
+  parent_id: '1292'
+  parent_name: Navigating the System
+  vocabulary: Open Eligibility
+- id: '1297'
+  name: Help Find Work
+  parent_id: '1292'
+  parent_name: Navigating the System
+  vocabulary: Open Eligibility
+- id: '1298'
+  name: Residential Care
+  parent_id: '1108'
+  parent_name: Care
+  vocabulary: Open Eligibility
+- id: '1299'
+  name: Assisted Living
+  parent_id: '1298'
+  parent_name: Residential Care
+  vocabulary: Open Eligibility
+- id: '1300'
+  name: Residential Treatment
+  parent_id: '1298'
+  parent_name: Residential Care
+  vocabulary: Open Eligibility
+- id: '1301'
+  name: Nursing Home
+  parent_id: '1298'
+  parent_name: Residential Care
+  vocabulary: Open Eligibility
+- id: '1302'
+  name: Overnight Camp
+  parent_id: '1298'
+  parent_name: Residential Care
+  vocabulary: Open Eligibility
+- id: '1303'
+  name: Support Network
+  parent_id: '1108'
+  parent_name: Care
+  vocabulary: Open Eligibility
+- id: '1304'
+  name: Counseling
+  parent_id: '1303'
+  parent_name: Support Network
+  vocabulary: Open Eligibility
+- id: '1305'
+  name: Help Hotlines
+  parent_id: '1303'
+  parent_name: Support Network
+  vocabulary: Open Eligibility
+- id: '1306'
+  name: Home Visiting
+  parent_id: '1303'
+  parent_name: Support Network
+  vocabulary: Open Eligibility
+- id: '1307'
+  name: In-Home Support
+  parent_id: '1303'
+  parent_name: Support Network
+  vocabulary: Open Eligibility
+- id: '1308'
+  name: Mentoring
+  parent_id: '1303'
+  parent_name: Support Network
+  vocabulary: Open Eligibility
+- id: '1309'
+  name: One-on-One Support
+  parent_id: '1303'
+  parent_name: Support Network
+  vocabulary: Open Eligibility
+- id: '1310'
+  name: Peer Support
+  parent_id: '1303'
+  parent_name: Support Network
+  vocabulary: Open Eligibility
+- id: '1311'
+  name: Spiritual Support
+  parent_id: '1303'
+  parent_name: Support Network
+  vocabulary: Open Eligibility
+- id: '1312'
+  name: Support Groups
+  parent_id: '1303'
+  parent_name: Support Network
+  vocabulary: Open Eligibility
+- id: '1313'
+  name: 12-Step
+  parent_id: '1312'
+  parent_name: Support Groups
+  vocabulary: Open Eligibility
+- id: '1314'
+  name: Bereavement
+  parent_id: '1312'
+  parent_name: Support Groups
+  vocabulary: Open Eligibility
+- id: '1315'
+  name: Parenting Education
+  parent_id: '1312'
+  parent_name: Support Groups
+  vocabulary: Open Eligibility
+- id: '1316'
+  name: Virtual Support
+  parent_id: '1303'
+  parent_name: Support Network
+  vocabulary: Open Eligibility
+- id: '1317'
+  name: Help Find School
+  parent_id: '1109'
+  parent_name: Education
+  vocabulary: Open Eligibility
+- id: '1318'
+  name: Help Pay for School
+  parent_id: '1109'
+  parent_name: Education
+  vocabulary: Open Eligibility
+- id: '1319'
+  name: Books
+  parent_id: '1318'
+  parent_name: Help Pay for School
+  vocabulary: Open Eligibility
+- id: '1320'
+  name: Clothes for School
+  parent_id: '1318'
+  parent_name: Help Pay for School
+  vocabulary: Open Eligibility
+- id: '1321'
+  name: Financial Aid & Loans
+  parent_id: '1318'
+  parent_name: Help Pay for School
+  vocabulary: Open Eligibility
+- id: '1322'
+  name: Transportation for School
+  parent_id: '1318'
+  parent_name: Help Pay for School
+  vocabulary: Open Eligibility
+- id: '1323'
+  name: More Education
+  parent_id: '1109'
+  parent_name: Education
+  vocabulary: Open Eligibility
+- id: '1324'
+  name: Alternative Education
+  parent_id: '1323'
+  parent_name: More Education
+  vocabulary: Open Eligibility
+- id: '1325'
+  name: Disaster Preparedness & Response
+  parent_id: '1323'
+  parent_name: More Education
+  vocabulary: Open Eligibility
+- id: '1326'
+  name: English as a Second Language (ESL)
+  parent_id: '1323'
+  parent_name: More Education
+  vocabulary: Open Eligibility
+- id: '1327'
+  name: Financial Education
+  parent_id: '1323'
+  parent_name: More Education
+  vocabulary: Open Eligibility
+- id: '1328'
+  name: Credit Counseling
+  parent_id: '1327'
+  parent_name: Financial Education
+  vocabulary: Open Eligibility
+- id: '1329'
+  name: Foreclosure Counseling
+  parent_id: '1327'
+  parent_name: Financial Education
+  vocabulary: Open Eligibility
+- id: '1330'
+  name: Homebuyer Education
+  parent_id: '1327'
+  parent_name: Financial Education
+  vocabulary: Open Eligibility
+- id: '1331'
+  name: Foreign Languages
+  parent_id: '1323'
+  parent_name: More Education
+  vocabulary: Open Eligibility
+- id: '1332'
+  name: GED/High-School Equivalency
+  parent_id: '1323'
+  parent_name: More Education
+  vocabulary: Open Eligibility
+- id: '1333'
+  name: Health Education
+  parent_id: '1323'
+  parent_name: More Education
+  vocabulary: Open Eligibility
+- id: '1334'
+  name: Disease Management
+  parent_id: '1333'
+  parent_name: Health Education
+  vocabulary: Open Eligibility
+- id: '1335'
+  name: Family Planning
+  parent_id: '1333'
+  parent_name: Health Education
+  vocabulary: Open Eligibility
+- id: '1336'
+  name: Nutrition Education
+  parent_id: '1333'
+  parent_name: Health Education
+  vocabulary: Open Eligibility
+- id: '1337'
+  name: Parenting Education
+  parent_id: '1333'
+  parent_name: Health Education
+  vocabulary: Open Eligibility
+- id: '1338'
+  name: Sex Education
+  parent_id: '1333'
+  parent_name: Health Education
+  vocabulary: Open Eligibility
+- id: '1339'
+  name: Understand Disability
+  parent_id: '1333'
+  parent_name: Health Education
+  vocabulary: Open Eligibility
+- id: '1340'
+  name: Understand Mental Health
+  parent_id: '1333'
+  parent_name: Health Education
+  vocabulary: Open Eligibility
+- id: '1341'
+  name: Supported Employment
+  parent_id: '1323'
+  parent_name: More Education
+  vocabulary: Open Eligibility
+- id: '1342'
+  name: Special Education
+  parent_id: '1323'
+  parent_name: More Education
+  vocabulary: Open Eligibility
+- id: '1343'
+  name: Tutoring
+  parent_id: '1323'
+  parent_name: More Education
+  vocabulary: Open Eligibility
+- id: '1344'
+  name: Preschool
+  parent_id: '1109'
+  parent_name: Education
+  vocabulary: Open Eligibility
+- id: '1345'
+  name: Screening & Exams
+  parent_id: '1109'
+  parent_name: Education
+  vocabulary: Open Eligibility
+- id: '1346'
+  name: Citizenship & Immigration
+  parent_id: '1345'
+  parent_name: Screening & Exams
+  vocabulary: Open Eligibility
+- id: '1347'
+  name: GED/High-School Equivalency
+  parent_id: '1345'
+  parent_name: Screening & Exams
+  vocabulary: Open Eligibility
+- id: '1348'
+  name: English as a Second Language (ESL)
+  parent_id: '1345'
+  parent_name: Screening & Exams
+  vocabulary: Open Eligibility
+- id: '1349'
+  name: Skills & Training
+  parent_id: '1109'
+  parent_name: Education
+  vocabulary: Open Eligibility
+- id: '1350'
+  name: Basic Literacy
+  parent_id: '1349'
+  parent_name: Skills & Training
+  vocabulary: Open Eligibility
+- id: '1351'
+  name: Computer Class
+  parent_id: '1349'
+  parent_name: Skills & Training
+  vocabulary: Open Eligibility
+- id: '1352'
+  name: Daily Life Skills
+  parent_id: '1349'
+  parent_name: Skills & Training
+  vocabulary: Open Eligibility
+- id: '1353'
+  name: Interview Training
+  parent_id: '1349'
+  parent_name: Skills & Training
+  vocabulary: Open Eligibility
+- id: '1354'
+  name: Resume Development
+  parent_id: '1349'
+  parent_name: Skills & Training
+  vocabulary: Open Eligibility
+- id: '1355'
+  name: Skills Assessment
+  parent_id: '1349'
+  parent_name: Skills & Training
+  vocabulary: Open Eligibility
+- id: '1356'
+  name: Specialized Training
+  parent_id: '1349'
+  parent_name: Skills & Training
+  vocabulary: Open Eligibility
+- id: '1357'
+  name: Help Find Work
+  parent_id: '1110'
+  parent_name: Work
+  vocabulary: Open Eligibility
+- id: '1358'
+  name: Job Placement
+  parent_id: '1357'
+  parent_name: Help Find Work
+  vocabulary: Open Eligibility
+- id: '1359'
+  name: Supported Employment
+  parent_id: '1357'
+  parent_name: Help Find Work
+  vocabulary: Open Eligibility
+- id: '1360'
+  name: Help Pay for Work Expenses
+  parent_id: '1110'
+  parent_name: Work
+  vocabulary: Open Eligibility
+- id: '1361'
+  name: Clothes for Work
+  parent_id: '1360'
+  parent_name: Help Pay for Work Expenses
+  vocabulary: Open Eligibility
+- id: '1362'
+  name: Retirement Benefits
+  parent_id: '1360'
+  parent_name: Help Pay for Work Expenses
+  vocabulary: Open Eligibility
+- id: '1363'
+  name: Supplies for Work
+  parent_id: '1360'
+  parent_name: Help Pay for Work Expenses
+  vocabulary: Open Eligibility
+- id: '1364'
+  name: Unemployment Benefits
+  parent_id: '1360'
+  parent_name: Help Pay for Work Expenses
+  vocabulary: Open Eligibility
+- id: '1365'
+  name: Skills & Training
+  parent_id: '1110'
+  parent_name: Work
+  vocabulary: Open Eligibility
+- id: '1366'
+  name: Basic Literacy
+  parent_id: '1365'
+  parent_name: Skills & Training
+  vocabulary: Open Eligibility
+- id: '1367'
+  name: Computer Class
+  parent_id: '1365'
+  parent_name: Skills & Training
+  vocabulary: Open Eligibility
+- id: '1368'
+  name: GED/High-School Equivalency
+  parent_id: '1365'
+  parent_name: Skills & Training
+  vocabulary: Open Eligibility
+- id: '1369'
+  name: Interview Training
+  parent_id: '1365'
+  parent_name: Skills & Training
+  vocabulary: Open Eligibility
+- id: '1370'
+  name: Resume Development
+  parent_id: '1365'
+  parent_name: Skills & Training
+  vocabulary: Open Eligibility
+- id: '1371'
+  name: Skills Assessment
+  parent_id: '1365'
+  parent_name: Skills & Training
+  vocabulary: Open Eligibility
+- id: '1372'
+  name: Specialized Training
+  parent_id: '1365'
+  parent_name: Skills & Training
+  vocabulary: Open Eligibility
+- id: '1373'
+  name: Supported Employment
+  parent_id: '1110'
+  parent_name: Work
+  vocabulary: Open Eligibility
+- id: '1374'
+  name: Workplace Rights
+  parent_id: '1110'
+  parent_name: Work
+  vocabulary: Open Eligibility
+- id: '1375'
+  name: Advocacy & Legal Aid
+  parent_id: '1111'
+  parent_name: Legal
+  vocabulary: Open Eligibility
+- id: '1376'
+  name: Adoption & Foster Care
+  parent_id: '1375'
+  parent_name: Advocacy & Legal Aid
+  vocabulary: Open Eligibility
+- id: '1377'
+  name: Adoption & Foster Placement
+  parent_id: '1376'
+  parent_name: Adoption & Foster Care
+  vocabulary: Open Eligibility
+- id: '1378'
+  name: Adoption & Foster Parenting
+  parent_id: '1376'
+  parent_name: Adoption & Foster Care
+  vocabulary: Open Eligibility
+- id: '1379'
+  name: Adoption Planning
+  parent_id: '1376'
+  parent_name: Adoption & Foster Care
+  vocabulary: Open Eligibility
+- id: '1380'
+  name: Post-Adoption Support
+  parent_id: '1376'
+  parent_name: Adoption & Foster Care
+  vocabulary: Open Eligibility
+- id: '1381'
+  name: Citizenship & Immigration
+  parent_id: '1375'
+  parent_name: Advocacy & Legal Aid
+  vocabulary: Open Eligibility
+- id: '1382'
+  name: Discrimination & Civil Rights
+  parent_id: '1375'
+  parent_name: Advocacy & Legal Aid
+  vocabulary: Open Eligibility
+- id: '1383'
+  name: Guardianship
+  parent_id: '1375'
+  parent_name: Advocacy & Legal Aid
+  vocabulary: Open Eligibility
+- id: '1384'
+  name: Identification Recovery
+  parent_id: '1375'
+  parent_name: Advocacy & Legal Aid
+  vocabulary: Open Eligibility
+- id: '1385'
+  name: Understand Government Programs
+  parent_id: '1375'
+  parent_name: Advocacy & Legal Aid
+  vocabulary: Open Eligibility
+- id: '1386'
+  name: Workplace Rights
+  parent_id: '1375'
+  parent_name: Advocacy & Legal Aid
+  vocabulary: Open Eligibility
+- id: '1387'
+  name: Mediation
+  parent_id: '1111'
+  parent_name: Legal
+  vocabulary: Open Eligibility
+- id: '1388'
+  name: Notary
+  parent_id: '1111'
+  parent_name: Legal
+  vocabulary: Open Eligibility
+- id: '1389'
+  name: Representation
+  parent_id: '1111'
+  parent_name: Legal
+  vocabulary: Open Eligibility
+- id: '1390'
+  name: Translation & Interpretation
+  parent_id: '1111'
+  parent_name: Legal
+  vocabulary: Open Eligibility
